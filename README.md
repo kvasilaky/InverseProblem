@@ -1,6 +1,6 @@
 # InverseProblem
 
-# Intended to provide more stable regularization than Lasso or Ridge
+*Intended to provide more stable regularization than Lasso or Ridge.*
 
 ip.optimalk(A) #this will print out optimal k
 
